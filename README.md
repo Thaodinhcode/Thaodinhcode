@@ -2,6 +2,8 @@
    <h1>Hi, I'm Dinh Thao ☺️ </h1>
 </div>
 
+<img align ="right" alt="coding" width = "300" src = "https://camo.githubusercontent.com/87af9a9fec730c94fc8b08eb21fa5ef6ab7831a67ba17bf8cc76696f6e4be1ef/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"> 
+
 ### Connect with me <br />    
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/bX8pZE3m) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/dinhthao-nguyen-633188391) 
