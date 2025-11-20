@@ -2,7 +2,7 @@
    <h1>Hi, I'm Dinh Thao ☺️ </h1>
 </div>
 
-<img align ="right" alt="coding" width = "320" src = "https://github.com/Thaodinhcode/Thaodinhcode/blob/main/mancoder.gif?raw=true"> 
+<img align ="right" alt="coding" width = "300" src = "https://github.com/Thaodinhcode/Thaodinhcode/blob/main/mancoder.gif?raw=true"> 
 
 ### Connect with me <br />    
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/bX8pZE3m) 
